@@ -1,4 +1,12 @@
-title: Serdar's Personal Site
-author: Serdar
-description: My personal website for the university homework.
+title: Serdar Kara | Computer Engineering
+author: Serdar Kara
+email: "" # İstersen buraya okul veya kişisel mailini yazabilirsin, boş da kalabilir
+description: >-
+  Personal portfolio and course blog of Serdar Kara. 
+  Computer Engineering student at Necmettin Erbakan University.
 theme: minima
+
+# Sosyal medya bağlantıları (Alt bilgi kısmında ikon olarak çıkar)
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/serdarkr42" }
