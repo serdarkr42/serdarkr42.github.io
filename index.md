@@ -19,7 +19,8 @@ Welcome to my personal website and blog. I am a Computer Engineering student at 
 ### 📌 Upcoming Presentation Topic
 For our upcoming class presentation, I will be exploring:  
 > **"CAPTCHA: How We Prove We Are Human"**  
-> *An overview of how websites block automated bots, from distorted text to interactive image puzzles.* *(Full page coming in Week 5!)*
+> *An overview of how websites block automated bots, from distorted text to interactive image puzzles.*  
+> 👉 **[View Slides & Sources](/presentation/)**
 
 ---
 
